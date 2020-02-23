@@ -1,0 +1,103 @@
+{
+  "name": "TongaSoft.com",
+  "short_name": "TongaSoft.com",
+  "lang": "es",
+  "theme_color": "#c34a4e",
+  "background_color": "#c34a4e",
+  "display": "standalone",
+  "Scope": "https://www.tongasoft.com/?m=1",
+  "start_url": "https://www.tongasoft.com/?m=1",
+  "description": "TongaSoft.com - Software para el día a día!",
+  "icons": [
+   {
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s16/banner800.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+   {
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s32/banner800.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+   {
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s57/banner800.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+	{
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s60/banner800.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s72/banner800.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+	{
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s76/banner800.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s96/banner800.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+	{
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s114/banner800.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+	{
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s120/banner800.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s128/banner800.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s144/banner800.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s152/banner800.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+	{
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s180/banner800.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s192/banner800.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s384/banner800.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+	{
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s800/banner800.png",
+      "sizes": "800x800",
+      "type": "image/png"
+    },
+	{
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s1024/banner800.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-t2jBMy_u29c/XlH759C9ZeI/AAAAAAAAIc8/hOjlsN0ZWz0SNIeyB5fydsOObjA5FVtYQCNcBGAsYHQ/s512/banner800.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  }
