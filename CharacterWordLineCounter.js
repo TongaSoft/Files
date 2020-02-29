@@ -19,7 +19,7 @@
             //Count Lines
             var lines = textbox.val().split(/\n/).length;
             //Print Counts
-            counterDiv.html('Caracteres Con Espacios: ' + charactersS + '<br>'
+            counterDiv.html('Resultados:<br> Caracteres Con Espacios: ' + charactersS + '<br>'
                     + 'Caracteres Sin Espacios: ' + charactersWS + '<br>'
                     + 'Palabras: ' + words + '<br>'
                     + 'Lineas: ' + lines);
